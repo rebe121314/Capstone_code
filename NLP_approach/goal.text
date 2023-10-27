@@ -1,0 +1,3 @@
+This folder is created to the deeper analysis and implementation of NLP models for the task.
+The descision to focus on NLP came after exploring the data and seeing that the programs (and data gathering) uses 
+chemical smiles. It will also be less computational heavy to use NLP models than to use image classification models.
