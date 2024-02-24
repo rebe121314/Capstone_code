@@ -16,6 +16,8 @@ pip install -r requirements.txt
 
 Might change later depending on the project.
 
+pip install deepchem
+
 
 Exploratory and data folder:
 
