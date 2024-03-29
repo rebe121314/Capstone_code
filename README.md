@@ -8,8 +8,7 @@ Create virtual environment:
 python -m venv .venv
 
 Activate virtual environment:
-.venv\Scripts\activate.bat
-
+w
 
 Requirements:
 pip install -r requirements.txt
